@@ -1,2 +1,79 @@
-﻿body {
+﻿*{
+    margin:0;
+    padding:0;
+}
+
+.main {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(appData/back1.jpg);
+    background-position:center;
+    background-size:cover;
+    height:109vh;
+}
+
+.navigation{
+    width:1200px;
+    height:75px;
+    margin:auto;
+
+}
+
+.Logo{
+    left:0;
+    width:200px;
+    float:left;
+    height:75px;
+}
+
+.Logo h2 {
+    color: #b4d7fe;
+    font-size: 35px;
+    font-family: Tahoma;
+    padding-left: 0;
+    float: left;
+    padding-top: 10px;
+}
+
+.lists{
+    width:400px;
+    float: right;
+    height:70px;
+}
+
+ul{
+    float:left;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+ul li{
+    list-style:none;
+    margin-left:60px;
+    margin-top: 27px;
+    font-size:16px;
+}
+
+ul li a{
+    text-decoration:none;
+    color:white;
+    font-family:Tahoma;
+    font-weight:bold;
+    transition:0.5s ease;
+}
+
+lists ul li a:after{
+    content:"";
+    position:absolute;
+    background-color:#b4d7fe;
+    height:4px;
+    width:100px;
+    left:0;
+    
+}
+
+
+ul li a:hover {
+    color: #b4d7fe;
 }
