@@ -12,6 +12,14 @@
 
 }
 
+.Signin{
+    width:360px;
+    height:320px;
+    margin:auto;
+    border-radius:5px;
+    background-color: white;
+}
+
 h1{
     text-align:center;
     padding-top:15px;
@@ -19,7 +27,7 @@ h1{
 
 h4{
     text-align: center;
-
+    color: #fd9519;
 }
 
 form{
@@ -45,7 +53,7 @@ form{
 .Button {
     width:320px;
     height:35px;
-    margin-top:20px;
+    margin-top:10px;
     border:none;
     background-color: #fd9519;
     color: #b4d7fe;
@@ -60,5 +68,13 @@ form{
 }
 
 p {
-    text-align:center;   
+    text-align:center;  
+    padding-top: 10px;
+    font-size:15px;
+}
+
+.par2 {
+    text-align:center;
+    color:#fd9519;
+    margin-top:-10px;
 }

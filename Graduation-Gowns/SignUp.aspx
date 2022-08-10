@@ -27,7 +27,7 @@
         <p>By clicking the Sign Up button you agree  to our <br /> <a href="#">Terms and Conditions</a></p>
         
     </div>
-    <p>Already have an Account <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/SignIn.aspx">Click Here!</asp:HyperLink></p>
-    <a href="Default.aspx">Back</a>
+    <p class="par2">Already have an Account <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/SignIn.aspx">Click Here!</asp:HyperLink></p>
+    
 </body>
 </html>

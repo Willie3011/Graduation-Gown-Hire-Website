@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="Default-Style.css" />
     <Content Include="Default.aspx" />
+    <Content Include="Main-Style.css" />
+    <Content Include="Main.aspx" />
     <Content Include="SignIn.aspx" />
     <Content Include="Signup-Style.css" />
     <Content Include="SignUp.aspx" />
@@ -81,6 +83,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Main.aspx.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Main.aspx.designer.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SignIn.aspx.cs">

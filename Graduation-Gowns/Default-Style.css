@@ -5,7 +5,7 @@
 
 .main {
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(appData/back1.jpg);
+    background-color:#b4d7fe;
     background-position:center;
     background-size:cover;
     height:109vh;
@@ -26,8 +26,8 @@
 }
 
 .Logo h2 {
-    color: #b4d7fe;
-    font-size: 35px;
+    color: rgba(253, 149, 25, 0.85);
+    font-size: 25px;
     font-family: Tahoma;
     padding-left: 0;
     float: left;
@@ -63,17 +63,35 @@ ul li a{
     transition:0.5s ease;
 }
 
-lists ul li a:after{
-    content:"";
-    position:absolute;
-    background-color:#b4d7fe;
-    height:4px;
-    width:100px;
-    left:0;
-    
-}
-
 
 ul li a:hover {
-    color: #b4d7fe;
+    color: #fd9519;
+}
+
+.Content {
+    padding-top:100px;
+    width:1200px;
+    height:auto;
+    width:auto;
+    color: white;
+}
+
+.Content .par {
+    padding-left:20px;
+    padding-bottom:25px;
+    font-family:Tahoma;
+    letter-spacing: 1.2px;
+    line-height:30px;
+}
+
+.Content h1{
+    font-family:'Times New Roman';
+    font-size:50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+.link{
+    color:blue;
 }

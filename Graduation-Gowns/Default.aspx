@@ -25,7 +25,20 @@
                     </ul>
                 </div>
             </div>
+            <div class="Content">
+            <h1>Graduation Gowns & Caps</h1>
+            <p>A & M Graduation Gowns makes the finest collection of <br />Graduation Gowns, Robes, Hoods, and Caps, Preschool Gowns etc 
+                <br />
+                <br />
+                Our Company offers these remarkable services and more. For more Information <br />
+                <asp:HyperLink ID="HyperLink3" runat="server" CssClass="link">Contact Us Here</asp:HyperLink>
+            </p>
+                <div class="Images">
+                    <asp:Image ID="Slideshow" runat="server" />
+                </div>
         </div>
+        </div>
+        
     </form>
 </body>
 </html>
