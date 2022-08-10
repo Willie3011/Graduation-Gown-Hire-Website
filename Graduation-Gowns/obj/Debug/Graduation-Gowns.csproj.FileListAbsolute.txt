@@ -52,8 +52,8 @@ C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduatio
 C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\obj\Debug\Graduation-Gowns.csproj.AssemblyReference.cache
 C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\obj\Debug\Graduation-Gowns.csproj.CoreCompileInputs.cache
 C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\obj\Debug\Graduation-Gowns.csproj.CopyComplete
 C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\obj\Debug\Graduation-Gowns.dll
 C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\obj\Debug\Graduation-Gowns.pdb
+C:\Users\Mr April\Source\Repos\Willie3011\Graduation-Gown-Hire-Website\Graduation-Gowns\obj\Debug\Graduation-Gowns.csproj.AssemblyReference.cache

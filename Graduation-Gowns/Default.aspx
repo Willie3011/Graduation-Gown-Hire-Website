@@ -9,7 +9,6 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <!--Navigation bar-->
         <div class="navbar">
         <div class="Logo">
                     <h2> A & M Gradz Gownz</h2>
@@ -50,16 +49,28 @@
                 </div>
             </div>
             <div class="row">
-                <asp:GridView ID="GridView1" runat="server">
-                    <div class="col">
-                    <asp:Image ID="Image1" runat="server" />
-                    
+                
+                <div class="col">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Properties/pr1.jpg" CssClass="img" />
+                    <h4>Product 1</h4>
+                    <p>This one of our clients wearing one of our finest tailor made Gowns</p>
+                </div>
+                <div class="col">
+                    <asp:Image ID="Image2" runat="server" ImageUrl="~/Properties/pr2.jpg" CssClass="img" />
+                    <h4>Product 2</h4>
+                    <p>This one of our clients wearing one of our finest tailor made Gowns</p>
+                </div>
+                <div class="col">
+                    <asp:Image ID="Image3" runat="server" ImageUrl="~/Properties/pr3.jpg" CssClass="img" />
+                    <h4>Product 3</h4>
+                    <p>This one of our clients wearing one of our finest tailor made Gowns</p>
                     </div>
-                    
-                
-                </asp:GridView>
-                
             </div>
+        </section>
+
+        <section class="footer">
+            <p>130 Hertz Blvd, CW4, Vanderbjipark, 1900 | Phone: +27813182699 | Email: A&MGradz@gmail.com</p>
+            <p>Facebook: A&MGradzGowns Twitter: A&M_Gradz Instagram: A&M_Gradz_Gowns</p>
         </section>
     </form>
 </body>

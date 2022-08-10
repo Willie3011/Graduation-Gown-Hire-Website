@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SignIn.aspx.cs"  %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SignIn.aspx.cs"  Inherits="Graduation_Gowns.SignIn"%>
 
 <!DOCTYPE html>
 

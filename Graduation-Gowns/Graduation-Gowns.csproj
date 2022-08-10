@@ -67,11 +67,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\GradzGowns.mdf" />
+    <Content Include="App_Data\GradzGowns_log.ldf">
+      <DependentUpon>GradzGowns.mdf</DependentUpon>
+    </Content>
     <Content Include="Properties\back1.jpg" />
     <Content Include="Default-Style.css" />
     <Content Include="Default.aspx" />
     <Content Include="Main-Style.css" />
     <Content Include="Main.aspx" />
+    <Content Include="Properties\pr1.jpg" />
+    <Content Include="Properties\pr2.jpg" />
+    <Content Include="Properties\pr3.jpg" />
     <Content Include="SignIn.aspx" />
     <Content Include="Signup-Style.css" />
     <Content Include="SignUp.aspx" />
